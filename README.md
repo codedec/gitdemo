@@ -1,3 +1,5 @@
 # gitdemo
 Demo on project structuring...
-git git git 
+In models -> .pickle files
+In data -> datasets
+In notebooks -> Our code
